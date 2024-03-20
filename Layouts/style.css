@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(69, 76, 210);
+}
+
+.retangulo{
+    width: 640px;
+    height: 150px;
+    margin-left: 10px;
+    background-color: rgb(210, 194, 69);
+}
+
+.quadradinho{
+  padding: 100px;
+  margin: 10px;
+  background-color: rgb(210, 194, 69);
+}
+
+.yo{
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(210, 194, 69);
+  }
+
+  
+
+.quadradao{
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(210, 194, 69);
+  }
+
+.flex{
+    display: flex;
+}
+
+.quadrado{
+   padding: 100px;
+   margin: 10px;
+   background-color: rgb(210, 194, 69);
+}
+
+
+
